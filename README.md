@@ -2,7 +2,7 @@
 
 ### Project Aim
 <p>The aim of the project is to create an optimal database named crimes_db to store data on crime reports primarily available in the CSV format.</p>
-<img src="images/groups_overview.png" width="400" height="350">
+<img src="images/groups_overview.png" width="600" height="350">
 
 ### Outcomes
 <br>
